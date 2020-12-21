@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ITurboPricingReverseSyncJobHandler</members>
+        <members>TPReverseSyncWebhookControllerTests</members>
+        <members>TPSyncLIneItemRelatedListsTests</members>
+        <members>TPSyncLineItemRelatedListsHandler</members>
+        <members>TPSyncLineItemRelatedListsHandlerTests</members>
+        <members>TurboPricingReverseSyncJobData</members>
+        <members>TurboPricingReverseSyncJobException</members>
+        <members>TurboPricingReverseSyncJobException</members>
+        <members>TurboPricingReverseSyncQueueable</members>
+        <members>TurboPricingReverseSyncQueueable</members>
+        <members>TurboPricingReverseSyncQueueableTests</members>
+        <members>TurboPricingReverseSyncWebhookController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>CongaTurboPricingReverseSyncJob.LineItemRelatedLists</members>
+        <name>CustomMetadata</name>
+    </types>
+    <version>48.0</version>
+</Package>
